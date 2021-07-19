@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taison Brown
-- 🌱 I’m currently learning git and python
+- 🌱 I’m currently learning git, python, and java
 - 💞️ I’m looking to collaborate on projects or ideas that can help me expand my skills
 - 📫 How to reach me: taisonbrown@outlook.com
 
